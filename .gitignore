@@ -9,5 +9,6 @@ __pycache__
 *.pyd
 
 models/
+datasets/
 
 .ipynb_checkpoints/

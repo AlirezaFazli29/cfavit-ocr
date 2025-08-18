@@ -5,10 +5,15 @@
 │   │   ├── routes.py
 │   │   └── schemas.py
 │   └── core
-│       ├── __init__.py
-│       └── models
-│           ├── ...
-│           └── ...
+│       ├── datasets
+│       │   ├── ...
+│       │   └── ...
+│       ├── models
+│       │   ├── ...
+│       │   └── ...
+│       └── training
+│           ├── data.py
+│           └── trainer.py
 ├── .dockerignore
 ├── .gitignore
 ├── dev.ipynb
@@ -17,4 +22,3 @@
 ├── README.md
 ├── requirements.txt
 └── tree.txt
-
