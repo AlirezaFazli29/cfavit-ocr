@@ -1,0 +1,20 @@
+.
+├── app
+│   ├── api
+│   │   ├── __init__.py
+│   │   ├── routes.py
+│   │   └── schemas.py
+│   └── core
+│       ├── __init__.py
+│       └── models
+│           ├── ...
+│           └── ...
+├── .dockerignore
+├── .gitignore
+├── dev.ipynb
+├── docker-compose.yml
+├── Dockerfile
+├── README.md
+├── requirements.txt
+└── tree.txt
+
