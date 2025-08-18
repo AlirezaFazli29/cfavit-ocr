@@ -5,5 +5,9 @@ env
 
 __pycache__
 *.pyc
+*.pyo
+*.pyd
 
-model/
+models/
+
+.ipynb_checkpoints/
